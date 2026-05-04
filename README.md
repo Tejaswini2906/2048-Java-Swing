@@ -19,14 +19,16 @@ Developed a desktop 2048 puzzle game with persistent high scores, smooth keyboar
 ## ✨ Features
 - Classic 2048 gameplay  
 - Smooth keyboard controls
+- High score tracking (saved locally)  
+- Simple and user-friendly interface  
+
+---
 
 ## 📸 Screenshots
 
 ![Game Screen 1](ss1.png)
 
 ![Game Screen 2](ss2.png)
-- High score tracking (saved locally)  
-- Simple and user-friendly interface  
 
 ---
 
